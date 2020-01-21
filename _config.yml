@@ -1,0 +1,7 @@
+title: Lizao Li
+url: "https://lzlarryli.github.io"
+markdown: kramdown
+collections:
+  notes:
+    output: true
+highlighter: rouge

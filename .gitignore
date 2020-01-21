@@ -1,0 +1,12 @@
+# Mac junk
+.DS_Store
+
+# CTags
+tags
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.*
