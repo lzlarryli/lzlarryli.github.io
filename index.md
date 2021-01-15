@@ -6,7 +6,7 @@ layout: default
 ## About
 
 You have reached Lizao (Larry) Li's homepage.
-I am an applied mathematician specialized in numerical analysis, optimization,
+I am an applied mathematician with experience in numerical analysis, optimization,
 machine learning, and statistics. Currently I work as a research software
 engineer at Google.
 
