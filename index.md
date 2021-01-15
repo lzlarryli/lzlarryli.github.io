@@ -7,8 +7,7 @@ layout: default
 
 You have reached Lizao (Larry) Li's homepage.
 I am an applied mathematician with experience in numerical analysis, optimization,
-machine learning, and statistics. Currently I work as a research software
-engineer at Google.
+machine learning, and statistics. Currently I work as a software engineer at Google.
 
 [LinkedIn](https://www.linkedin.com/in/lizaoli) -
 [GitHub](https://github.com/lzlarryli) -
